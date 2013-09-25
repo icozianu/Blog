@@ -16,7 +16,7 @@
 |------
 |//**id_post**//|int(6)|No|
 |cat_id|int(3)|No|
-|user_id|int(11)|No|
+|id_user|int(11)|No|
 |**title**|varchar(255)|No|
 |content|text|No|
 |date_posted|datetime|No|
