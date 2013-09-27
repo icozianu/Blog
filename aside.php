@@ -4,7 +4,7 @@
 	<!--the box where the user can enter the credentials-->
 	<div class="form-horizontal well">
 		<p style="font-size:22px">Login</p>
-		<form  action="signin.php" method="POST">
+		<form  action="login.php" method="POST">
 		Username<br/><input  type="text" name="username" value=""/><br/>
 		Password<br/><input type="password" name="password" value=""/><br/>
 		<input type="checkbox" name="remember" value=""> Remember me<br/>
