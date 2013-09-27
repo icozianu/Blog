@@ -3,7 +3,7 @@
 
 	<!-- the block where the latest posts are shown-->
 	<div id="blogpost" class="well">
-		
+	<?php include ('passwordrecovery.php');?>
 	</div>
 	
 	
