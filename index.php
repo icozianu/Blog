@@ -2,7 +2,7 @@
 include 'core/init.php';
 include 'includes/overall/oheader.php'; ?>
 	
-	<!-- start of the block where the latest posts are shown
+	<!-- start of the block where the latest posts are shown -->
 		<div id="blogpost" class="well"> 
 		<h3><b>This is the title of Blog Post 1</b></h3>
 		<p>Posted on July 17, 2013 by Someone</p>
@@ -13,6 +13,6 @@ include 'includes/overall/oheader.php'; ?>
 		</tr>
 		</table>
 		<p><a href="">Read more</a></p>
-	</div>-->
+	</div>
 
 <?php include 'includes/overall/ofooter.php'; ?>
